@@ -1,6 +1,7 @@
 #!/bin/bash
 rm -rf ipwndfu_public
 rm -rf ipwndfu
+rm -rf ipwndfuA11
 
 clear
 echo "*** Matty's Checkm8 APNonce Setter ***"
